@@ -4,7 +4,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JayashanManodya) ![Github](https://img.shields.io/github/followers/JayashanManodya?label=Follow&style=social)
 
-💡 &nbsp;I’m passionate about learning, exploring, and building new things.\
+💡 &nbsp;Let's explore anything and everything—code, creativity, and beyond!\
 🎓 &nbsp;Currently studying at the **Sri Lanka Institute of Information Technology (SLIIT)**.\
 🎓 &nbsp;Pursuing a **BSc (Hons) in Information Technology**, specializing in **Software Engineering**.\
 🌱 &nbsp;Currently learning **Java Servlets** and **Spring Boot**.\
