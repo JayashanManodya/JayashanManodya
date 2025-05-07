@@ -5,8 +5,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JayashanManodya) ![Github](https://img.shields.io/github/followers/JayashanManodya?label=Follow&style=social)
 
 💡 &nbsp;Let's explore anything and everything—code, creativity, and beyond!\
-🎓 &nbsp;Currently studying at the **Sri Lanka Institute of Information Technology (SLIIT)**.\
-🎓 &nbsp;Pursuing a **BSc (Hons) in Information Technology**, specializing in **Software Engineering**.\
+🎓 &nbsp;I'm currently pursuing a BSc (Hons) in Information Technology, specializing in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT).\
 🌱 &nbsp;Currently learning **Java Servlets** and **Spring Boot**.\
 🎮 &nbsp;In my free time, I dive into **GTA V** and **Forza Horizon** – whether it’s pulling off heists in Los Santos or racing in style! 🎮🏎️\
 ✉️ &nbsp;Reach out at [kpjmp28@gmail.com](mailto:kpjmp28@gmail.com).\
