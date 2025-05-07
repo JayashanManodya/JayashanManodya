@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://github.com/JayashanManodya">
-    <img src="https://github-profile-trophy.vercel.app/?username=JayashanManodya&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Achievements"/>
+    <img src="https://raw.githubusercontent.com/JayashanManodya/JayashanManodya/main/assets/achievements.png" alt="GitHub Achievements" />
   </a>
 </p>
 
