@@ -1,19 +1,19 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
-### 👨🏻‍💻  About Me
+### 👨🏻‍💻 &nbsp;About Me
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JayashanManodya) ![Github](https://img.shields.io/github/followers/JayashanManodya?label=Follow&style=social)
 
-💡  Let's explore anything and everything—code, creativity, and beyond!\
-🎓  I'm currently pursuing a BSc (Hons) in Information Technology, specializing in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT).\
-🌱  Currently learning **Java Servlets** and **Spring Boot**.\
-🎮  In my free time, I dive into **GTA V** and **Forza Horizon** – whether it’s pulling off heists in Los Santos or racing in style! 🎮🏎️\
-✉️  Reach out at [kpjmp28@gmail.com](mailto:kpjmp28@gmail.com)\
-🌐  Portfolio: [jayashanmanodya.github.io/Portfolio](https://jayashanmanodya.github.io/Portfolio)
+💡 &nbsp;Let's explore anything and everything—code, creativity, and beyond!\
+🎓 &nbsp;I'm currently pursuing a BSc (Hons) in Information Technology, specializing in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT).\
+🌱 &nbsp;Currently learning **Java Servlets** and **Spring Boot**.\
+🎮 &nbsp;In my free time, I dive into **GTA V** and **Forza Horizon** – whether it’s pulling off heists in Los Santos or racing in style! 🎮🏎️\
+✉️ &nbsp;Reach out at [kpjmp28@gmail.com](mailto:kpjmp28@gmail.com)\
+🌐 &nbsp;Portfolio: [jayashanmanodya.github.io/Portfolio](https://jayashanmanodya.github.io/Portfolio)
 
 ---
 
-### 🛠️  Tech Stack
+### 🛠️ &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -37,22 +37,12 @@
 
 ---
 
-### ⚙️  GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/JayashanManodya">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JayashanManodya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JayashanManodya&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</p>
-
----
-
-### 🏆  GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/JayashanManodya">
-    <img src="https://github-profile-trophy.vercel.app/?username=JayashanManodya&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Achievements"/>
   </a>
 </p>
 
@@ -64,3 +54,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayashanmanodya/)
 [![Gmail](https://img.shields.io/badge/-kpjmp28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpjmp28@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/jayashan.manodya)
+
